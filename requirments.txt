@@ -1,5 +1,6 @@
-python-3.10
 streamlit
-tensorflow
-Pillow
+tensorflow==2.15.0
+keras
+opencv-python
 numpy
+pillow
