@@ -3,6 +3,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Suppress TensorFlow INFO & WARNING l
 
 import warnings
 warnings.filterwarnings("ignore")         # Suppress Python warnings
+from tensorflow.keras.preprocessing import image
 
 import streamlit as st
 import numpy as np
