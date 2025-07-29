@@ -1,7 +1,13 @@
 streamlit
+tensorflow
 tensorflow-cpu==2.13.0
 tensorflow==2.13.0
 keras
 opencv-python
 numpy
 pillow
+Pillow
+streamlit==1.35.0
+tensorflow==2.18.0
+pillow==10.3.0
+numpy==1.26.4
